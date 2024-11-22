@@ -1,0 +1,13 @@
+#one{
+    background-color: orange;
+}
+#two{
+    background-color: white;
+}
+#three{
+    background-color: green;
+}
+.all{
+    width: 100%;
+    height: 200px;
+}
